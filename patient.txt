@@ -1,0 +1,10 @@
+HOSPITAL MANAGEMENT SYSTEM
+PATIENT DETAILS
+Patient ID: P101
+Patient Name: Rajesh
+Age: 45
+Problem: Heart Disease
+Patient ID: P102
+Patient Name: Meena
+Age: 32
+Problem: Migraine

@@ -1,0 +1,10 @@
+HOSPITAL MANAGEMENT SYSTEM
+DOCTOR DETAILS
+Doctor ID: D101
+Doctor Name: Dr. Arun Kumar
+Specialization: Cardiologist
+Experience: 10 Years
+Doctor ID: D102
+Doctor Name: Dr. Priya
+Specialization: Neurologist
+Experience: 8 Years
